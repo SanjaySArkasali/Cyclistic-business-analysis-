@@ -1,2 +1,2 @@
-# Cyclistic-business-analysis-
+# Cyclistic business analysis
 A bike share analysis
