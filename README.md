@@ -1,5 +1,5 @@
 # Cyclistic business analysis 📊
-A bike share analysis
+A bike share company analysis
 
 This was my Portfolio Project when i was Data Anlytics course from google.
 
