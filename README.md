@@ -6,7 +6,7 @@ This was my Portfolio Project when i was Data Anlytics course from google.
 ## About
 Cyclistic is a bike sakre company just like (yulu) 
 
-# These slides will explain client requirements ,finding and solutins
+# These slides will explain client requirements ,finding and solutions
 
 ![Capture](https://github.com/SanjaySArkasali/Cyclistic-business-analysis-/assets/121194268/05659a3b-9014-4cb9-a377-a05bb0d6a32d)
 ![Capture2](https://github.com/SanjaySArkasali/Cyclistic-business-analysis-/assets/121194268/5c762dc7-60c6-4688-a7e4-f35fb320b016)
